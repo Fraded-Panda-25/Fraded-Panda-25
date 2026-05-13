@@ -1,24 +1,93 @@
-# 💫 About Me:
-# 👋 Hi, I'm Pritam<br><br> 🚀 About Me<br>- 🌱 I’m currently learning  Python and exploring its endless possibilities.<br>- 💻 Tech enthusiast with a passion for coding, problem-solving, and experimenting with new tools.<br>- 📚 Interested in building small projects to strengthen my programming skills.<br>- 🔍 Always curious about how technology can make life easier and more creative.<br><br> 🛠️ Skills & Tools<br>- Beginner in  Python  (loops, list comprehensions, basic projects)<br>- Comfortable with  Antigravity and VS Code and exploring extensions<br>- Enthusiastic about  open-source contributions  and learning from the community<br><br> 📈 Goals<br>- Improve my Python knowledge step by step<br>- Build practical projects (automation scripts, small apps, etc.)<br>- Share my learning journey on GitHub<br><br> 🤝 Connect With Me<br>- 💬 Open to collaboration on beginner-friendly projects<br>- 📫 Reach me via GitHub discussions or issues<br><br>---<br><br>⭐️ *Thanks for visiting my profile! Stay tuned as I grow my skills and share more projects here.*<br>
+<h1 align="center">Hi 👋, I'm Pritam Paul</h1>
+<h3 align="center">Python Developer | Web Developer | Future AI Engineer</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fraded.panda.official25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pritam Paul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pritam9732865277@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Fraded-Panda-25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Fraded-Panda-25&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fraded-Panda-25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Fraded-Panda-25&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+the+future+with+code.;Python+%7C+JavaScript+%7C+AI.;Learning.+Building.+Improving.;Open+Source+Contributor." alt="Typing SVG" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Fraded-Panda-25&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 About Me
+
+- 🔭 Currently working on advanced **Python, JavaScript, CSS, and HTML** projects
+- 🌱 Learning deeper concepts of **AI engineering and modern web development**
+- ⚡ I build websites using **HTML, CSS, and JavaScript**
+- 🐍 I work with data and automation using **Python**
+- 🎯 Future Goal: Become an **AI Engineer** and **Professional Web Developer**
+- 🤝 Open to:
+  - Collaboration
+  - Freelance opportunities
+  - Open-source contributions
+  - Learning with other developers
+
+---
+
+# 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,vscode,github,git" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fradedpanda&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fradedpanda&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fradedpanda&theme=tokyonight&hide_border=false"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pritam-paul-327262406/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://www.instagram.com/fraded.panda.official25/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <a href="https://www.threads.com/@fraded.panda.official25" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 📫 Contact Me
+
+- 📧 pritam9732865277@gmail.com
+- 📧 fraded.panda.official25@gmail.com
+
+---
+
+# 🧠 Developer Mindset
+
+```python
+while alive:
+    learn()
+    build()
+    improve()
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fradedpanda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
+  ⚔️ “Code is not just syntax. It's leverage.”
+</p>

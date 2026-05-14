@@ -12,32 +12,25 @@
 
 # 🧠 About Me
 
-```python
-class Developer:
+- 👨‍💻 Name: **Pritam Paul**
+- 🐼 GitHub: **Fraded-Panda-25**
+- 💻 Developer focused on:
+  - Python
+  - JavaScript
+  - HTML
+  - CSS
 
-    name = "Pritam Paul"
-    github = "Fraded-Panda-25"
+- 🚀 Currently learning:
+  - Advanced Python
+  - Modern Web Development
+  - AI Engineering
 
-    skills = [
-        "Python",
-        "JavaScript",
-        "HTML",
-        "CSS"
-    ]
+- 🎯 Goal:
+  - Become an AI Engineer
+  - Become a Professional Web Developer
 
-    current_focus = [
-        "Advanced Python",
-        "Modern Web Development",
-        "AI Engineering"
-    ]
-
-    goals = [
-        "AI Engineer",
-        "Professional Web Developer"
-    ]
-
-    motto = "Learn. Build. Improve."
-```
+- ⚡ Motto:
+  > Learn. Build. Improve.
 
 ---
 
@@ -51,8 +44,8 @@ class Developer:
 
 # 🚀 What I Do
 
-- 🌐 Build responsive websites using **HTML, CSS, and JavaScript**
-- 🐍 Work with automation and data using **Python**
+- 🌐 Build responsive websites using HTML, CSS, and JavaScript
+- 🐍 Work with automation and data using Python
 - 📚 Continuously improving my development skills
 - 🤝 Open to collaboration and open-source contributions
 - 💡 Interested in AI and future technologies
@@ -115,16 +108,12 @@ class Developer:
 
 # ⚡ Developer Mindset
 
-<p align="center">
-
 ```python
 while True:
     learn()
     build()
     improve()
 ```
-
-</p>
 
 ---
 
@@ -133,5 +122,5 @@ while True:
 </p>
 
 <p align="center">
-  ⚔️ “Code is leverage. Learn deeply. Build relentlessly.”
+  ⚔️ Code is leverage. Learn deeply. Build relentlessly.
 </p>

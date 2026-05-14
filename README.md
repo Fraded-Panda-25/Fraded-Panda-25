@@ -14,23 +14,23 @@
 
 - 👨‍💻 Name: **Pritam Paul**
 - 🐼 GitHub: **Fraded-Panda-25**
-- 💻 Developer focused on:
+- 💻 Skills:
   - Python
   - JavaScript
   - HTML
   - CSS
 
-- 🚀 Currently learning:
+- 🚀 Currently Learning:
   - Advanced Python
   - Modern Web Development
   - AI Engineering
 
-- 🎯 Goal:
-  - Become an AI Engineer
-  - Become a Professional Web Developer
+- 🎯 Future Goals:
+  - AI Engineer
+  - Professional Web Developer
 
 - ⚡ Motto:
-  > Learn. Build. Improve.
+> Learn. Build. Improve.
 
 ---
 
@@ -45,7 +45,7 @@
 # 🚀 What I Do
 
 - 🌐 Build responsive websites using HTML, CSS, and JavaScript
-- 🐍 Work with automation and data using Python
+- 🐍 Work with Python for automation and data-related tasks
 - 📚 Continuously improving my development skills
 - 🤝 Open to collaboration and open-source contributions
 - 💡 Interested in AI and future technologies

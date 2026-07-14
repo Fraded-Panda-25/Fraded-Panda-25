@@ -29,7 +29,7 @@
   - AI Engineering
 
 - 🎯 Career Goals:
-  - AI Engineer
+  - Learn React, Node.js, Lenis etc
   - Professional Web Developer
 
 - 🤝 Open to:

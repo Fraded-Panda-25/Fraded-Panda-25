@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritam Paul</h1>
 
 <h3 align="center">
-⚡ Python Developer | Web Developer⚡
+⚡ Python Developer | Full Stack Web Developer⚡
 </h3>
 
 <p align="center">

@@ -96,6 +96,7 @@
 
 - 📧 pritam9732865277@gmail.com
 - 📧 fraded.panda.official25@gmail.com
+- 📧 pritam.fradedpanda25@gmail.com
 
 ---
 

@@ -1,20 +1,22 @@
-<h1 align="center">Hi 👋, I'm Pritam Paul</h1>
+<h1 align="center">Hey 👋, I'm Pritam Paul</h1>
 
-<h3 align="center">Full Stack Developer | Building Practical Software & Exploring AI</h3>
+<p align="center">
+  <strong>Full Stack Developer • Building Practical Software • Exploring AI</strong>
+</p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00F7FF&center=true&vCenter=true&width=760&lines=Building+real-world+web+projects.;JavaScript+%7C+HTML+%7C+CSS+%7C+Python.;Learning+TypeScript%2C+React.js+%26+Angular.;Solving+real-world+problems+with+code."
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=780&lines=Building+real-world+web+projects.;Turning+problems+into+usable+software.;JavaScript+%7C+HTML+%7C+CSS+%7C+Python.;Learning+TypeScript%2C+React.js+%26+Angular."
+    alt="Typing animation"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/Fraded-Panda-25">
-    <img src="https://img.shields.io/github/followers/Fraded-Panda-25?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers" />
+    <img src="https://img.shields.io/badge/GitHub-Fraded--Panda--25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/Fraded-Panda-25?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-00F7FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <a href="mailto:pritam.fradedpanda25@gmail.com">
+    <img src="https://img.shields.io/badge/Business%20Email-Contact-00F7FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Business email" />
   </a>
 </p>
 
@@ -24,25 +26,26 @@
 
 I'm **Pritam Paul**, a developer focused on building practical web applications and developer tools.
 
-I enjoy taking real-world problems, breaking them into technical problems, and turning them into software that is actually useful. I'm especially interested in web development, developer tooling, automation, and the broader path toward AI engineering.
+I like working on problems that have a clear real-world use case. My goal isn't just to learn a technology and move on. I want to understand it well enough to build something useful with it.
 
 - 🚀 Building real-world web projects
+- 🌐 Focused on modern full-stack development
+- 🐍 Strengthening Python
 - ⚛️ Learning TypeScript, React.js & Angular
-- 🐍 Strengthening my Python skills
-- 🌐 Focused on modern web development
-- 🤝 Open to open-source collaboration and freelance projects
-- 💡 Interested in solving practical problems through software
+- 🤝 Open to open-source collaboration
+- 💼 Open to practical freelance work
+- 🧩 Interested in developer tools, automation and useful software
 
-> My long-term goal is to solve real-world problems and hard problems through freelancing and open-source work.
+> **Long-term goal:** solve difficult real-world problems through freelancing and open-source work.
 
 ---
 
 ## ⚔️ Tech Stack
 
-### 💪 Core Skills
+### 💪 Comfortable With
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,git,github" alt="Core skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,git,github" alt="Core technology stack" />
 </p>
 
 ### 📚 Currently Learning
@@ -54,67 +57,108 @@ I enjoy taking real-world problems, breaking them into technical problems, and t
 ### 🧪 Explored
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Explored technology" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Explored technologies" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### ▶️ [YouTube Auto-Pause Pro](https://github.com/Fraded-Panda-25/youtube-auto-pause-pro)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A Chrome extension rebuilt from an incomplete and non-working project into a finished, practical browser tool.
+### ▶️ YouTube Auto-Pause Pro
 
-**What I worked on:**
+A finished Chrome extension rebuilt from an **unfinished and non-working project** into a practical browser tool.
+
+**Highlights**
 - Rebuilt the core JavaScript logic
-- Designed and built the popup UI
-- Implemented automatic pause/resume when switching tabs or windows
-- Added manual-pause protection
-- Implemented optional Picture-in-Picture blocking
-- Added support for YouTube's dynamic SPA navigation and changing video elements
+- Designed and implemented the popup UI
+- Auto-pauses YouTube on tab/window changes
+- Resumes only when the extension caused the pause
+- Protects manual user pauses
+- Optional Picture-in-Picture blocking
+- Handles YouTube SPA navigation and dynamic video elements
 
-**Tech:** `JavaScript` `Chrome Extensions` `Manifest V3` `DOM APIs`
+**Built with**
 
----
+`JavaScript` `Manifest V3` `Chrome APIs` `DOM APIs`
 
-### 🧾 [Ease Invoice Pro](https://github.com/Fraded-Panda-25/Ease-Invoice-Pro)
+[**View repository →**](https://github.com/Fraded-Panda-25/youtube-auto-pause-pro)
 
-A client-side invoicing and inventory application built around a simple problem: **professional billing software can be too expensive for small shopkeepers**.
+</td>
+<td width="50%" valign="top">
 
-**What I built:**
+### 🧾 Ease Invoice Pro
+
+A client-side invoicing and inventory application built around a real problem:
+
+> **Professional billing software can be too expensive for small shopkeepers.**
+
+**Highlights**
 - GST-ready invoice builder
-- Product inventory and stock tracking
+- Inventory and stock tracking
 - Customer directory
-- IndexedDB-based local data storage
+- IndexedDB local storage
 - CSV, Excel, SVG and PDF export
 - JSON backup and restore
-- Responsive desktop, tablet and mobile UI
-- Dark/light theme and print-ready invoices
+- Responsive design
+- Dark/light theme
+- Print-ready invoices
 
-**Tech:** `JavaScript` `HTML` `CSS` `IndexedDB`
+**Built with**
+
+`JavaScript` `HTML` `CSS` `IndexedDB`
+
+[**View repository →**](https://github.com/Fraded-Panda-25/Ease-Invoice-Pro)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔨 What I'm Building
+## 🔨 What I'm Building Now
 
-- 🚀 Building real-world web projects
+```text
+Real-world projects        ████████████████████  Active
+Modern web development     ███████████████████░  Improving
+Python                     ████████████████░░░░  Growing
+TypeScript                 ████████████░░░░░░░░  Learning
+React.js                   ███████████░░░░░░░░░  Learning
+Angular                    █████████░░░░░░░░░░░  Learning
+```
+
+- 🚀 Building practical web projects
 - ⚛️ Learning TypeScript, React.js & Angular
-- 🧩 Improving my full-stack development skills
-- 🐍 Expanding my Python knowledge
-- 🤝 Looking for useful open-source projects to contribute to
-- 💼 Open to practical freelance development work
+- 🐍 Improving Python
+- 🧩 Exploring better ways to design and ship useful software
+- 🤝 Looking for meaningful open-source collaboration
+- 💼 Available for selected freelance projects
+
+---
+
+## 🧭 My Development Focus
+
+| Area | Focus |
+| --- | --- |
+| **Frontend** | HTML, CSS, JavaScript, Tailwind CSS |
+| **Frameworks** | React.js, Angular |
+| **Programming** | Python, JavaScript, TypeScript |
+| **Workflow** | Git, GitHub |
+| **Exploring** | Docker |
+| **Direction** | Full Stack Development → AI/Engineering |
 
 ---
 
 ## 📊 GitHub Activity
 
-<sub>Stats and language cards are generated by GitHub Actions and stored in this repository, so they do not depend on the public GitHub Readme Stats API at page-load time.</sub>
-
 <p align="center">
   <img
     height="180"
     src="./profile/stats.svg"
-    alt="Pritam's GitHub stats"
+    alt="GitHub statistics"
   />
   <img
     height="180"
@@ -126,7 +170,14 @@ A client-side invoicing and inventory application built around a simple problem:
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Fraded-Panda-25&theme=tokyonight&hide_border=true"
-    alt="GitHub streak"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Fraded-Panda-25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"
+    alt="GitHub trophies"
   />
 </p>
 
@@ -134,9 +185,8 @@ A client-side invoicing and inventory application built around a simple problem:
 
 ## 🌐 Connect With Me
 
-<p align="center">
   <a href="https://x.com/fradedpanda">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://www.reddit.com/user/Fraded_Panda-25/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
@@ -147,9 +197,9 @@ A client-side invoicing and inventory application built around a simple problem:
 
 ## 📫 Contact
 
-**Business Email:** [pritam.fradedpanda25@gmail.com](mailto:pritam.fradedpanda25@gmail.com)
+For **freelance work, collaborations, or open-source projects**:
 
-For freelance work, collaborations, or open-source ideas, feel free to reach out.
+**Business Email:** [pritam.fradedpanda25@gmail.com](mailto:pritam.fradedpanda25@gmail.com)
 
 ---
 
@@ -163,8 +213,6 @@ while True:
     improve()
 ```
 
----
-
 <p align="center">
-  <b>Build • Learn • Solve • Repeat</b>
+  <strong>Build • Learn • Solve • Repeat</strong>
 </p>

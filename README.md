@@ -135,20 +135,11 @@ A client-side invoicing and inventory application built around a simple problem:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pritam-paul-327262406/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/fraded.panda.official25/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
   <a href="https://x.com/fradedpanda">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
   <a href="https://www.reddit.com/user/Fraded_Panda-25/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-  </a>
-  <a href="https://www.threads.com/@fraded.panda.official25">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
 </p>
 

@@ -197,9 +197,13 @@ Angular                    █████████░░░░░░░░�
 
 ## 📫 Contact
 
-For **freelance work, collaborations, or open-source projects**:
+For **freelance work, collaborations**:
 
 **Business Email:** [pritam.fradedpanda25@gmail.com](mailto:pritam.fradedpanda25@gmail.com)
+
+For **open-source projects, new project ideas**:
+
+**Github Email:** [fraded.panda.official25@gmail.com](mailto:fraded.panda.official25@gmail.com)
 
 ---
 

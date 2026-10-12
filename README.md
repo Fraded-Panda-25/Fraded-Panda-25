@@ -154,17 +154,8 @@ Angular                    █████████░░░░░░░░�
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    height="180"
-    src="./profile/stats.svg"
-    alt="GitHub statistics"
-  />
-  <img
-    height="180"
-    src="./profile/top-langs.svg"
-    alt="Top languages"
-  />
+
+  
 </p>
 
 <p align="center">
@@ -172,14 +163,7 @@ Angular                    █████████░░░░░░░░�
     src="https://streak-stats.demolab.com/?user=Fraded-Panda-25&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak"
   />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Fraded-Panda-25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"
-    alt="GitHub trophies"
-  />
-</p>
 
 ---
 

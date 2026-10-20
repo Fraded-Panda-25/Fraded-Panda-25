@@ -45,7 +45,7 @@ I like working on problems that have a clear real-world use case. My goal isn't 
 ### 💪 Comfortable With
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,git,github" alt="Core technology stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python" alt="Core technology stack" />
 </p>
 
 ### 📚 Currently Learning

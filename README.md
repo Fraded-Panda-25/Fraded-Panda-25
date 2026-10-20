@@ -60,6 +60,12 @@ I like working on problems that have a clear real-world use case. My goal isn't 
   <img src="https://skillicons.dev/icons?i=docker" alt="Explored technologies" />
 </p>
 
+### Version Control
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" alt="Core technology stack" />
+</p>
+
 ---
 
 ## 🚀 Featured Projects
